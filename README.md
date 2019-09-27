@@ -1,8 +1,8 @@
 # Especialização em Ciência de Dados na UNIFACISA
 O material contido aqui é referente as duas disciplinas ministradas em 2019:
 
-* Análise Exploratória de Dados
-* Probabilidade
+* Análise Exploratória de Dados (AED)
+* Probabilidade (PROB)
 
 ### Referências
 
