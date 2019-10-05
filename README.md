@@ -8,6 +8,8 @@ O material contido aqui é referente as duas disciplinas ministradas em 2019:
 
 #### Sobre análise de dados com Python
 
+[0] _Manipulação de dados no Python_, de Walmes Marques Zeviani [http://leg.ufpr.br/~walmes/ensino/dsbd/01-python-pandas.html#1](http://leg.ufpr.br/~walmes/ensino/dsbd/01-python-pandas.html#1)
+
 [1] _Python for Data Analysis_. Disponível em: [https://www.kaggle.com/hamelg/python-for-data-analysis-index](https://www.kaggle.com/hamelg/python-for-data-analysis-index)
 
 [2] _Technical Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters_. Disponível em: [https://chrisalbon.com/](https://chrisalbon.com/)
