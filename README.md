@@ -30,6 +30,10 @@ O material contido aqui é referente as duas disciplinas ministradas em 2019:
 
 #### Sobre Estatística (incluindo Análise Exploratória de Dados e Probabilidade)
 
+[0] _Introduction to Statistics_, em especial o capítulo "Distributions of one variable", disponível em [http://work.thaslwanter.at/Stats/html/statsDistributions.html](http://work.thaslwanter.at/Stats/html/statsDistributions.html)
+
+Material interessante sobre Python para estudo de distribuições de probabilidade (usando scipy.stats).
+
 [1] _Métodos Estatísticos vols. 1 e 2_, de Ana Maria Lima de Farias, disponível em [https://canalcederj.cecierj.edu.br/012016/49ae58b5b8df6cabe8a06cd97f71f661.pdf](https://canalcederj.cecierj.edu.br/012016/49ae58b5b8df6cabe8a06cd97f71f661.pdf) (volume 1) e [https://canalcederj.cecierj.edu.br/anexos/recurso_interno/6450/download/13dfa50024e89a0085dcbcf1f9776375](https://canalcederj.cecierj.edu.br/anexos/recurso_interno/6450/download/13dfa50024e89a0085dcbcf1f9776375) (volume 2).
 
 Material fabuloso da Prof. Ana Maria da UFF. Completíssimo, extremamente bem escrito e didático, é uma maravilhosa base sobre os fundamentos de estatística. E está disponível gratuitamente para download.
